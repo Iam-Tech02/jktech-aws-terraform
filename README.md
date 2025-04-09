@@ -1,4 +1,4 @@
-```Terraform Infra Setup```
+**Terraform Infra Setup**
 
 This repository contains Terraform code to provision cloud infrastructure.
 
