@@ -19,14 +19,14 @@ Running Terraform
 
 Use the Makefile:
 
-make init  
-make plan  
-make apply
+```make init``` 
+```make plan```  
+```make apply```
 
 Or run directly:
 
-terraform init  
-terraform plan  
-terraform apply
+```terraform init``` 
+```terraform plan```  
+```terraform apply```
 
 Ensure AWS credentials are configured before running the commands.
