@@ -1,6 +1,7 @@
 #!/bin/bash
 
 AWS_REGION="${AWS_REGION:-us-east-1}"
+
 AWS_ACCOUNT_ID="${AWS_ACCOUNT_ID}"
 REPOSITORY_NAME="${REPOSITORY_NAME:-my-repository}"
 IMAGE_TAG="${1}"
